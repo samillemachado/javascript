@@ -19,7 +19,7 @@ section{
     margin: auto;    
 }
 
-div > p{
+section > div > p{
     padding: 10px;
 }
 footer{
