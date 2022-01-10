@@ -21,7 +21,7 @@ function verificar(){
             } else if (idade < 21) {
                 //Jovem
                 img.setAttribute('src', 'jovem-m.png')
-            } else if (idade < 35) {
+            } else if (idade < 45) {
                 //Jovem Adulto
                 img.setAttribute('src', 'jadulto-m.png')
             } else if (idade < 60) {
@@ -40,7 +40,7 @@ function verificar(){
             } else if (idade < 21) {
                 //Jovem
                 img.setAttribute('src', 'jovem-f.png')
-            } else if (idade < 35) {
+            } else if (idade < 45) {
                 //Jovem Adulto
                 img.setAttribute('src', 'jadulto-f.png')
             } else if (idade < 60) {
