@@ -53,7 +53,7 @@ function verificar(){
             
         }
         res.style.textAlign = 'center'
-        res.style.padding = '20px'
+        res.style.padding = '10px'
         res.innerHTML = `<p>Detectamos ${gênero} com ${idade} anos.</p>` //imprimir na tela;
         res.appendChild(img) //imprimir a imgem;
                 
